@@ -30,6 +30,14 @@ export const metadata: Metadata = {
     siteName: "Alexander Holuenko",
     locale: "ru_RU",
     type: "website",
+    images: [
+      {
+        url: "/images/avatar.png",
+        width: 669,
+        height: 800,
+        alt: "Alexander Holuenko",
+      },
+    ],
   },
   icons: {
     icon: [
